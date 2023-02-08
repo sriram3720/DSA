@@ -34,4 +34,3 @@ for(let o=0;o<5;o++){
 
 
 
-//console.log("                #  #                 ")
